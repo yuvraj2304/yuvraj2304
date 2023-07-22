@@ -1,6 +1,6 @@
 ## Hey <img src="Hi.gif" width="29px">, I'm [Yuvraj Kunwar!](https://www.linkedin.com/in/yuvrajkunwar/) 
 <!--
-**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuvraj2304/yuvraj2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
