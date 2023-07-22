@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
    <h1>Technical Skills 🛠</h1>
    
-I have learned and have a keen interest in the Data Science feid. Also i have learned webdevelopment and having knowledge of HTML, CSS & Javascript. Beside that I have also learned Python and also has the knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I have learned and have a keen interest in the Data Science feild. Also i have learned webdevelopment and having knowledge of HTML, CSS & Javascript. Beside that I have also learned Python and also has the knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
 <p align="center"> 
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
