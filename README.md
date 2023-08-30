@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/yuvrajkunwar/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<a href="https://twitter.com/yuvraj__kunwar">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
-</a>
 <a href="mailto:yuvraj.bitd@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
