@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 👨‍💻  I'm someone who loves all things tech and I also have a knack for solving problems by myself or with a team & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Developer (Calibre Technologies)](https://calibretech.com/) - (May'22-Jul'22)
 - [Data Scientist (Sublime Technocorp Pvt. Ltd.)](https://www.sublimetechnocorp.com/) - (Jun'23-Aug'23)
-
+- [Developer (Calibre Technologies)](https://calibretech.com/) - (May'22-Jul'22)
 
 
 
